@@ -35,3 +35,4 @@ Support requests in issues on this repository will be closed on sight.
 ## License
 
 Newspack is licensed under [GNU General Public License v2 (or later)](https://github.com/Automattic/newspack-theme/blob/master/LICENSE).
+[![Run on Repl.it](https://repl.it/badge/github/Automattic/newspack-theme)](https://repl.it/github/Automattic/newspack-theme)
